@@ -1,0 +1,30 @@
+body {
+	background: url("http://www.sme.sk/imgs/titulka/bg.jpg") repeat;
+}
+.container {
+	background: white;
+}
+
+.container .header {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.container .header a {
+	color: #A7090C;
+}
+
+.border-right {
+	border-right: 1px solid silver;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+.articles {
+	margin-top: 15px;
+}
+
+.articles img {
+	width: 180px;
+}
